@@ -1,0 +1,92 @@
+[{
+  "id": 1,
+  "name": "BST and AVL Tree",
+  "description": "",
+  "type": "Java",
+  "preview":"https://fakeimg.pl/650x450/000000/",
+  "url": "https://www.github.com/tejasvinishelar/Java-Data-Structures-Algorithms/tree/master/BinarySearchTreesAndAVLTrees"
+}, {
+  "id": 2,
+  "name": "CT DMV Quiz App",
+  "description": "",
+  "type": "Android",
+  "preview":"https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Connecticut-DMV-Test-Guide-AndroidApp"
+}, {
+  "id": 3,
+  "name": "Pace Uni-Chatbot",
+  "description": "",
+  "type": "JavaScript",
+  "preview":"https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Spam_Email_Detection"
+}, {
+  "id": 4,
+  "name": "Portfolio Website",
+  "description": "",
+  "type": "Angular",
+  "preview":"https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Spam_Email_Detection"
+}, {
+  "id": 5,
+  "name": "Java - Graph",
+  "description": "",
+  "type": "Java",
+  "preview":"https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Java-Data-Structures-Algorithms/tree/master/Graphs"
+}, {
+  "id": 6,
+  "name": "Java - HashTable",
+  "description": "",
+  "type": "Java",
+  "preview":"https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Java-Data-Structures-Algorithms/tree/master/HashTable"
+}, {
+  "id": 7,
+  "name": "Find Spam Emails",
+  "description": "",
+  "type": "Python",
+  "preview": "https://fakeimg.pl/650x450/000000/",
+  "url":"https://github.com/tejasvinishelar/Spam_Email_Detection"
+}, {
+  "id": 8,
+  "name": "Java-LinkedList",
+  "description": "",
+  "type": "Java",
+  "preview": "https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Java-Data-Structures-Algorithms/tree/master/LinkedList"
+}, {
+  "id": 9,
+  "name": "Currency Convert",
+  "description": "",
+  "type": "Android",
+  "preview": "https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/CS6392018_Android_Applications/tree/master/CurrencyConverter"
+}, {
+  "id": 10,
+  "name": "Image Viewer App",
+  "description": "",
+  "type": "Android",
+  "preview": "https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/CS6392018_Android_Applications/tree/master/ImageViewer"
+}, {
+  "id": 11,
+  "name": "ML Algorithms",
+  "description": "",
+  "type": "Python",
+  "preview": "https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Machine-Learning-Algorithms"
+}, {
+  "id": 12,
+  "name": "Java- Stack",
+  "description": "",
+  "type": "Java",
+  "preview": "https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Java-Data-Structures-Algorithms/tree/master/StackPrograms"
+}, {
+  "id": 13,
+  "name": "Java- Recursion",
+  "description": "",
+  "type": "Java",
+  "preview": "https://fakeimg.pl/650x450/000000/",
+  "url": "https://github.com/tejasvinishelar/Java-Data-Structures-Algorithms/tree/master/Recursion"
+}]
